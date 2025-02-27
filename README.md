@@ -1,3 +1,5 @@
+![Assembly](/Images/assembly.png "Assembly")
+
 # Voron QD Panel Mod
 A quick-detach panel mod for Voron 2 and Trident. This mod has a large number of components designed to work together, but can also be used selectively based on personal preference:  
 - Quick Latch - based on github user [richardjm's](https://github.com/richardjm) excellent [snap latch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) mod. The part has been modified to use M1.6 and M2 screws as hinges (kudos to richard for the the amazing parametric fusion360 design!). 
