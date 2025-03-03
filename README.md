@@ -12,4 +12,4 @@ A quick-detach panel mod for Voron 2 and Trident. This mod has a large number of
 The following is the list of screws used for each latch. 
 - M1.6x8 FHCS, 2 per latch.
 - M2x45 SHCS, 1 per latch.
-- M2x3x3.2 Threaded Brass insert, 1 per latch.
+- M2x3x3.5 Threaded Brass insert, 1 per latch.
